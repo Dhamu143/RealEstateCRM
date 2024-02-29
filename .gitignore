@@ -29,3 +29,6 @@ Client/.env
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
